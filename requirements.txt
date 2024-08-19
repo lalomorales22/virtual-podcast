@@ -1,0 +1,6 @@
+streamlit
+openai
+ollama
+python-dateutil
+requests
+Pillow
