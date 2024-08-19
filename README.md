@@ -1,4 +1,5 @@
 # Virtual Podcast App
+<img width="1243" alt="Screenshot 2024-08-19 at 9 19 36 AM" src="https://github.com/user-attachments/assets/9385064a-2987-4ca9-8f28-abb3b6a72204">
 
 ## Overview
 
